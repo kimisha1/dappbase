@@ -1,0 +1,2 @@
+# dappbase
+base mainnet
